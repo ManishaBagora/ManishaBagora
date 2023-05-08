@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManishaBagora
-- 👀 I’m looking for internship or full time opportunity as Data Analyst, Business Intelligence Analyst, Data Engineer, Data Scientist
+- 👀 I’m looking for full time opportunity as Data Analyst, Business Intelligence Analyst, Data Engineer, Data Scientist
 - 🌱 I’m currently learning SQL, Python
 - 📫 How to reach me- bagora.m@northeastern.edu/ manibagora@gmail.com
 - Linkedin :https://www.linkedin.com/in/manisha-bagora-9321b883/
