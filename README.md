@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ManishaBagora
 - 👀 I’m looking for full time opportunity as Data Analyst, Business Intelligence Analyst, Data Engineer, Data Scientist
 - 🌱 I’m currently learning SQL, Python,Java
-- 📫 How to reach me- bagora.m@northeastern.edu/ manibagora@gmail.com
-- Linkedin :https://www.linkedin.com/in/manisha-bagora-9321b883/
+- 📫 How to reach me- bagora.m@northeastern.edu/ bagoramanisha2@gmail.com
+- Linkedin :https://www.linkedin.com/in/manishabagora/
 - Tableau Profile: https://public.tableau.com/app/profile/manisha.bagora
-- 🎓 Graduating from Northeastern University in May 2023
+- 🎓 Graduating from Northeastern University in December 2023
 
 Languages and Tools:
 • Programming Languages: SQL, R, Python, HTML, CSS,Java
