@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManishaBagora
-- 👀 I’m looking for full time opportunity as Data Analyst, Business Intelligence Analyst, Data Engineer, Data Scientist
-- 🌱 I’m currently learning SQL, Python,Java
+- 👀 I’m looking for full time opportunity as Data Analyst, Business Intelligence Analyst,Power app Developer, Data Engineer, Data Scientist
+- 🌱 I’m currently learning SQL,Python,Java
 - 📫 How to reach me- bagora.m@northeastern.edu/ bagoramanisha2@gmail.com
 - Linkedin :https://www.linkedin.com/in/manishabagora/
 - Tableau Profile: https://public.tableau.com/app/profile/manisha.bagora
@@ -14,7 +14,7 @@ Languages and Tools:
 • Data Visualization – Tableau, PowerBI, Google Data Studio 
 • Data Science Libraries: Pandas, NumPy, Seaborn, Scikit-Learn, Matplotlib
 • Tools and Technologies: Tools: Jupyter Notebook, GitHub, MS Excel, Salesforce, MS Word, MS 
- PowerPoint, Google Sheets, Tableau
+ PowerPoint, Google Sheets, Tableau, Power platform
 • IDE’s – VS Code, IntelliJ, NetBeans, Jupyter Notebook, RStudio              
 
 <!---
