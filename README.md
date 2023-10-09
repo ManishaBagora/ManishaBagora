@@ -14,7 +14,7 @@ Languages and Tools:
 • Data Visualization – Tableau, PowerBI, Google Data Studio 
 • Data Science Libraries: Pandas, NumPy, Seaborn, Scikit-Learn, Matplotlib
 • Tools and Technologies: Tools: Jupyter Notebook, GitHub, MS Excel, Salesforce, MS Word, MS 
- PowerPoint, Google Sheets, Tableau, Power platform
+ PowerPoint, Google Sheets, Tableau, Power platform,Hadoop,Hive,Spark
 • IDE’s – VS Code, IntelliJ, NetBeans, Jupyter Notebook, RStudio              
 
 <!---
